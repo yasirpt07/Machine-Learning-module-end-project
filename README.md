@@ -91,8 +91,8 @@ This project successfully:
 ---
 
 ## 🧠 Author
-**Your Name**  
-[GitHub Profile](https://github.com/yourusername)  
+**Mohammed Yasir Arafath**  
+[GitHub Profile](https://github.com/yasirpt07)  
 **Date**: April 2025
 
 ---
